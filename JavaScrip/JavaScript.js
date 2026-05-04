@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // 1. Typing effect for the main title
+    // 1. Typing effect for the main title 
     const title = document.getElementById('typing-text');
     const originalText = title.innerText;
     title.innerText = '';
